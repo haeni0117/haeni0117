@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋  I'm SuYeon Kim
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaeni0117&count_bg=%23D94DC1&title_bg=%23000000&icon=verizon.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+🔭 I’m currently working on 이화여대 도전학기 12기
+
+🌱 I’m currently learning REACT
+
 <!--
 **haeni0117/haeni0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
