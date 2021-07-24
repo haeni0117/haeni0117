@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **REACT, html, css, js**
 - 📫 How to reach me **ksy56470117@gmail.com**
 
+![KakaoTalk_Photo_2021-07-25-04-45-44](https://user-images.githubusercontent.com/69496570/126879776-664897fc-6e3f-4fc4-bd83-4a35865dbacb.jpeg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/suye0n0117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suye0n0117" height="30" width="40" /></a>
